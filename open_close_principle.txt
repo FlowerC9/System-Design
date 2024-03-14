@@ -1,0 +1,3 @@
+lets say we want to add a new methos to our some of the existing class then we must not modify that 
+existing class instead we should extend that class such that add the required functionality in that 
+extended class

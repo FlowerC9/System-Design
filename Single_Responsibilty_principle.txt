@@ -1,0 +1,4 @@
+har ek class ko aise banao ki uske pas sirf ek reason ho change hone ka
+
+easy to maintain code
+
