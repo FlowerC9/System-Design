@@ -6,6 +6,7 @@ interface shape{
     int getHeight();
     void setHeight(int height);
     int area();
+
 }
 
 class reactangle implements shape{
