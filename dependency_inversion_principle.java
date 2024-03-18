@@ -114,3 +114,8 @@ public class dependency_inversion_principle{
         // the Employee interface
     }
 }
+
+// In this code, the manager doesn’t have an idea beforehand about all the type
+// of workers that may come under him/her making the code truly decoupled. There
+// are many design patterns where this is a core idea and other things are built
+// upon it
